@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div>
+  <img src="/cover.png" alt="cover" width="100%" height="auto" />
+</div>
 
 <!--
 **sonarpratikcodes/sonarpratikcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
